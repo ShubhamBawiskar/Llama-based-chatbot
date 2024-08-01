@@ -12,6 +12,4 @@ This project demonstrates the integration of the LangChain framework with the LL
 - **LLAMA 3.1 Model Integration:** Utilizes the powerful LLAMA 3.1 model from Ollama for generating accurate and context-aware responses.
 - **LangChain Framework:** Leverages LangChain for managing prompts and handling API interactions with the language model.
 - **Environment Configuration:** Environment variables are managed using the `.env` file, ensuring secure and flexible configuration.
-
-
-# Test Change          
+        
