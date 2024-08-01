@@ -1,6 +1,4 @@
-## Chatbot
-
-# LangChain Integration with LLAMA 3.1 API
+# Chatbot
 
 ## Overview
 
