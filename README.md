@@ -1,7 +1,5 @@
 # Chatbot
 
-# LangChain Integration with LLAMA 3.1 API
-
 ## Overview
 
 This project demonstrates the integration of the LangChain framework with the LLAMA 3.1 model for building an AI-powered assistant. The assistant responds to user queries via a web interface built using Streamlit. By leveraging the LangChain library, the project simplifies interactions with large language models, making it easy to develop and deploy AI-driven applications.
