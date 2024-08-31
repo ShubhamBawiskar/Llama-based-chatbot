@@ -10,3 +10,10 @@ transformers
 accelerate
 bitsandbytes
 langchain
+fastapi
+uvicorn
+sse_starlette
+bs4
+pypdf
+faiss-cpu
+faiss-gpu
